@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Hirusha Lakshan</h1>
+<h3 align="center">Undergraduate CyberSecurity Student Currently Pursuing a Big Dream</h3>
+
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
